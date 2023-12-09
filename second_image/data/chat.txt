@@ -1,0 +1,5 @@
+{"nickname":"Abhishek","text":"local"}
+{"nickname":"Abhishek","text":"Local"}
+{"nickname":"Abhishek","text":"Global"}
+{"nickname":"Abhishek","text":"Global-1"}
+{"nickname":"Abhishek","text":"Global-1"}
